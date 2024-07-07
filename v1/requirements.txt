@@ -18,7 +18,7 @@ beautifulsoup4==4.12.2
 billiard==4.1.0
 bleach==6.1.0
 blinker==1.6.3
-bokeh==3.3.0
+bokeh
 boto3==1.28.73
 botocore==1.31.73
 cachetools==5.3.2
@@ -38,7 +38,7 @@ contourpy==1.1.1
 cryptography==41.0.5
 cssselect==1.2.0
 cycler==0.12.1
-dask==2023.10.1
+dask
 datasets==2.15.0
 debugpy==1.8.0
 decorator==5.1.1
@@ -77,8 +77,8 @@ imageio==2.31.6
 importlib-metadata==6.8.0
 incremental==22.10.0
 iniconfig==2.0.0
-ipykernel==6.26.0
-ipython==8.17.0
+ipykernel
+ipython
 ipywidgets==8.1.1
 isoduration==20.11.0
 itemadapter==0.8.0
@@ -113,8 +113,8 @@ locket==1.0.0
 lxml==4.9.3
 Markdown==3.5
 markdown-it-py==3.0.0
-MarkupSafe==2.1.3
-matplotlib==3.8.0
+MarkupSafe
+matplotlib
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 mistune==3.0.2
@@ -133,7 +133,7 @@ opencv-python==4.8.1.78
 opt-einsum==3.3.0
 overrides==7.4.0
 packaging==21.3
-pandas==2.1.2
+pandas
 pandocfilters==1.5.0
 parsel==1.8.1
 parso==0.8.3
@@ -191,7 +191,7 @@ ruamel.yaml.clib==0.2.8
 s3transfer==0.7.0
 safetensors==0.4.1
 scikit-learn==1.3.2
-scipy==1.11.3
+scipy
 Scrapy==2.11.0
 seaborn==0.13.0
 Send2Trash==1.8.2
@@ -210,7 +210,7 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.2
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
-tensorflow-io-gcs-filesystem==0.34.0
+tensorflow-io-gcs-filesystem
 termcolor==2.3.0
 terminado==0.17.1
 testresources==2.0.1
@@ -229,7 +229,7 @@ types-python-dateutil==2.8.19.14
 typing_extensions==4.5.0
 tzdata==2023.3
 uri-template==1.3.0
-urllib3==2.0.7
+urllib3
 vine==5.0.0
 w3lib==2.1.2
 wcwidth==0.2.8
